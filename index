@@ -9,7 +9,7 @@
 <body>
     <main class="memory-game">
         <div class="card" data-card="nojinho">
-            <img class="card-front" src="./src/assets/images/" alt="Face da carta">
+            <img class="card-front" src="./src/assets/images/nojinho.webp" alt="Face da carta">
             <img class="card-front" src="./src/assets/images/" alt="Face da carta">
             <img class="card-back" src="./src/assets/images/box.png" alt="Verso da carta">
         </div>
@@ -40,7 +40,7 @@
         </div>
 
         <div class="card" data-card="nojinho">
-            <img class="card-front" src="./src/assets/images/" alt="Face da carta">
+            <img class="card-front" src="./src/assets/images/src/assets/imagens/nojinho.webp" alt="Face da carta">
             <img class="card-front" src="./src/assets/images/" alt="Face da carta">
             <img class="card-back" src="./src/assets/images/box.png" alt="Verso da carta">
         </div>
